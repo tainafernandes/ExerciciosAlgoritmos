@@ -8,3 +8,5 @@ public class Twofer {
     }
 
 }
+
+//https://www.programacaoprogressiva.net/2012/07/java-classe-string.html
